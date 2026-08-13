@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Siddhant Pawar</h1> <h3 align="center">Full Stack Developer | UI/UX Enthusiast | E&TC Engineering Student</h3> <p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:siddhantpawar726@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<h1 align="center">Hi there , I'm Siddhant Pawar</h1> <h3 align="center">Full Stack Developer | E&TC Engineering Student</h3> <p align="center"> <a href="www.linkedin.com/in/siddhant-pawar-004414319"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:siddhantpawar726@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
 About Me
 I'm a final year E&TC Engineering student at Ajeenkya DY Patil School of Engineering, Pune, with a strong interest in full stack web development and real world problem solving.
