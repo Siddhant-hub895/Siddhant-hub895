@@ -14,7 +14,7 @@ On the development side, **I build full stack web applications with Node.js, Exp
 
 Tech Stack 
 
-Languages:- https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
+Languages:- ![Java] (https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" height="165"> </p>
