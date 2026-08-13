@@ -8,10 +8,12 @@ I'm a final year **E&TC Engineering** student at Ajeenkya DY Patil School of Eng
 On the development side, **I build full stack web applications with Node.js, Express.js, and MongoDB**, focusing on clean architecture, authentication, and RESTful API design.
 
 Currently building **Vestly** — a full stack stock management platform.
+
 Ask me about React, Node.js/Express, MongoDB, or Figma.
 
 Reach me at siddhantpawar726@gmail.com
 
+<hr>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" height="165"> </p>
