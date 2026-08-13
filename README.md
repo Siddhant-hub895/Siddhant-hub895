@@ -12,7 +12,7 @@ On the development side, **I build full stack web applications with Node.js, Exp
 
 <hr>
 
-Tech Stack 
+**Tech Stack** 
 
 Languages:- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Java Script](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -25,7 +25,7 @@ Tools:- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&
 
 <hr>
 
-Experience
+**Experience**
 
 - **Full Stack Developer Intern — Defence Research and Development Organisation (DRDO)** June 2026 – Present,Pune.<br>
 Engineered scalable MERN stack and .NET-based modules within a secure offline intranet environment, focused on high-performance RESTful API development.
