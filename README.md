@@ -7,9 +7,8 @@ I'm a final year **E&TC Engineering** student at Ajeenkya DY Patil School of Eng
 
 On the development side, **I build full stack web applications with Node.js, Express.js, and MongoDB**, focusing on clean architecture, authentication, and RESTful API design.
 
-Currently building **Vestly** — a full stack stock management platform.
-
-Reach me at siddhantpawar726@gmail.com
+- Currently building **Vestly** — a full stack stock management platform.
+- Reach me at siddhantpawar726@gmail.com
 
 <hr>
 
