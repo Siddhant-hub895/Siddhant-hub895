@@ -27,7 +27,7 @@ Tools:- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&
 
 Experience
 
-- **Full Stack Developer Intern — Defence Research and Development Organisation (DRDO)** June 2026 – Present,Pune.
+- **Full Stack Developer Intern — Defence Research and Development Organisation (DRDO)** June 2026 – Present,Pune.<br>
 Engineered scalable MERN stack and .NET-based modules within a secure offline intranet environment, focused on high-performance RESTful API development.
 
 📊 GitHub Stats
