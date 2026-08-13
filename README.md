@@ -4,7 +4,7 @@
 
 I'm a final year **E&TC Engineering** student at Ajeenkya DY Patil School of Engineering, Pune, currently working as a **Full Stack Developer Intern at DRDO** (Defence Research and Development Organisation), where I build scalable MERN and .NET-based modules within a secure, mission-critical intranet environment.
 
-I recently worked as a **UI/UX Design Intern at Careasa Healthcare Pvt Ltd**, where I designed a production-level mood tracking mobile app end-to-end in Figma  from wireframes to high-fidelity, developer-ready prototypes.
+I recently worked as a **UI/UX Design Intern at Careasa Healthcare Pvt Ltd**.
 
 On the development side, **I build full stack web applications with Node.js, Express.js, and MongoDB**, focusing on clean architecture, authentication, and RESTful API design.
 
