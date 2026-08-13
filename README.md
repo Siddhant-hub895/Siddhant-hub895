@@ -31,6 +31,5 @@ Experience
 Engineered scalable MERN stack and .NET-based modules within a secure offline intranet environment, focused on high-performance RESTful API development.
 
 - **UI/UX Design Intern at Careasa Healthcare Pvt Ltd** jan 2026 - feb 2026, pune. <br>
-where I designed a production-level mood tracking mobile app end-to-end in Figma — from wireframes to high-fidelity, developer-ready prototypes.
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" height="165"> </p>
+where I designed a production-level mood tracking mobile app end-to-end in Figma from wireframes to high-fidelity, developer-ready prototypes.
+
