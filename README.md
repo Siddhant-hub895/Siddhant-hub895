@@ -2,18 +2,15 @@
 
 **About Me**
 
-I'm a final year **E&TC Engineering** student at Ajeenkya DY Patil School of Engineering, Pune, with a strong interest in **full stack web development** and real world problem solving.
+I'm a final year **E&TC Engineering** student at Ajeenkya DY Patil School of Engineering, Pune, currently working as a **Full Stack Developer Intern at DRDO** (Defence Research and Development Organisation), where I build scalable MERN and .NET-based modules within a secure, mission-critical intranet environment.
 
 I recently worked as a **UI/UX Design Intern at Careasa Healthcare Pvt Ltd**, where I designed a production-level mood tracking mobile app end-to-end in Figma  from wireframes to high-fidelity, developer-ready prototypes.
 
 On the development side, **I build full stack web applications with Node.js, Express.js, and MongoDB**, focusing on clean architecture, authentication, and RESTful API design.
 
 🔭 Currently building **Vestly** — a full stack stock management platform.
-
 🌱 Strengthening my skills in DSA, OOP, and system design.
-
 💬 Ask me about React, Node.js/Express, MongoDB, or Figma
-
 📫 Reach me at siddhantpawar726@gmail.com
 
 📌 Featured Project
