@@ -9,8 +9,6 @@ On the development side, **I build full stack web applications with Node.js, Exp
 
 Currently building **Vestly** — a full stack stock management platform.
 
-Ask me about React, Node.js/Express, MongoDB, or Figma.
-
 Reach me at siddhantpawar726@gmail.com
 
 <hr>
