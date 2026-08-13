@@ -23,6 +23,12 @@ Backend & Database:- ![Node.js](https://img.shields.io/badge/-Node.js-339933?sty
 
 Tools:- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+<hr>
+
+Experience
+
+- **Full Stack Developer Intern — Defence Research and Development Organisation (DRDO)** June 2026 – Present,Pune.
+- Engineered scalable MERN stack and .NET-based modules within a secure offline intranet environment, focused on high-performance RESTful API development.
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" height="165"> </p>
